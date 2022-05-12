@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:tileMode="repeat" 
+    android:src="@drawable/line_segment" />
+<!-- From: file:/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/src/main/res/drawable/line_segment_pattern.xml -->

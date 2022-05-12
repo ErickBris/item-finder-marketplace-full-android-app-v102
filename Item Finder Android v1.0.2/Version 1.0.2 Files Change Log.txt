@@ -1,0 +1,18 @@
+————————————————————————————————————————————
+V 1.0.2
+————————————————————————————————————————————
+Fixed image problem if user failed to upload cover photo.
+Update Tutorial for first time User buying our app.
+
+————————————————————————————————————————————
+V 1.0.1
+————————————————————————————————————————————
+Backend updated to support comma based localization in other country.
+Fix Home screen error when no photo provided from the backend.
+Search Price Min adjusted from 1000 to 1.
+SMS Adjustment that fails to send text.
+Added date/time in User reviews.
+————————————————————————————————————————————
+V 1.0
+————————————————————————————————————————————
+Initial Release

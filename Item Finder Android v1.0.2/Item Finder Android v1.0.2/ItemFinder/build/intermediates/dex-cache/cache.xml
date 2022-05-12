@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-a7bfe3091db2cc4c9a1fd8049270f25bb6e6d070.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-f8de21ec93a325e5f49b57ae96905731512c991f.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/apache-mime4j-0.6-a5d3d119ad0fc8bf0d0698d3915a2a6e4ecfd27a.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/httpmime-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/httpmime-4.3.4-1dbfaaec8ce6f578b53f6e664f2e5a17c5868209.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/commons-validator-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2231238e391057a53f92bde5bbc588622c1956c3">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/commons-validator-1.4.1-980c10798159e5f8375945b1dfc4418a3c016212.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-4797c4e6b9fb370831e7c4bfc3e3db1ba7bd00e1.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/httpclient-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/httpclient-4.3.4-ce5febbb176c1493d6673d6217b7327d75a9d9b4.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/exploded-aar/ItemFinder/facebookSDK/unspecified/libs/bolts.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/bolts-4329a91ead025431add118fb3110c09c75e55eed.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-ba9103456f9866e8805930636dfaf89314ed462b.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/twitter4j-media-support-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="96b1b89e9d7e95d040df13d638d1f237b9cf95f8">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/twitter4j-media-support-4.0.2-3acef914f583d07df47b801ec5d8d18fb92048d2.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/twitter4j-media-support-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="96b1b89e9d7e95d040df13d638d1f237b9cf95f8">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/twitter4j-media-support-4.0.2-cbfbeb1c1e041ffa48d6d549a5542a9602b52310.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/exploded-aar/StoreFinder/facebookSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="80c56ff81b3da4bb4b0e76631f50d0474f3cfd55">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/classes-f5003cada02e0c120e35ffd0d7886034d4c9d1fb.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/classes-ff1dfacc87fd339c536085c18cd449b762923194.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/httpclient-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/httpclient-4.3.4-6cbd1a9925db35b0534cffc96bbf404272044a2b.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-88ac98f89448e378ceea4ef46707c521d5038681.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/classes-186c2c331b595236d4da95d24d54f82d4d1715f7.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/httpcore-4.3.2-0c6a84c4c389e49c81432fe0c886e98b4de7a976.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d3fa9a272ce97601498defa8129edb89e3de2131">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/twitter4j-stream-4.0.2-d66c8dec44602583d439969fae114bdb2c1c83ce.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/twitter4j-async-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="23d4842074b95d6115b5f49dc3f9cd8fbb009a76">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/twitter4j-async-4.0.2-abbee2ec91ae00af22a8fc7a70f21db3f2322e30.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/support-v4-19.1.0-4b53a3d151069aa19c3dad46088c7ac79722d6cd.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0faef4253b4ba28f47d7bd56a1d438f79ab04e92">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources-203c48d40fc0e4e05adc088355140021660087fe.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/twitter4j-async-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="23d4842074b95d6115b5f49dc3f9cd8fbb009a76">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/twitter4j-async-4.0.2-a1b44a4f4285cd2e21c717e019e1e4cc2f772ae0.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/exploded-aar/StoreFinder/facebookSDK/unspecified/libs/bolts.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/bolts-cc312d76bd1872b2693b01ed507870c1e90d25a1.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/commons-validator-1.4.1-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c77aa7c7a2824b6a0e4bc53bcf0ae77a58714c09">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/commons-validator-1.4.1-javadoc-8f37502e97e9fad941cd2c6d89a258b0c0cda348.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d3fa9a272ce97601498defa8129edb89e3de2131">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/twitter4j-stream-4.0.2-5e5b6daa93127c63db310b8800ae91b984c31b39.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0faef4253b4ba28f47d7bd56a1d438f79ab04e92">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources-5db14f69ef54853b793d195342629e5593d747ae.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/apache-mime4j-0.6-13c7487350520c081ada19f7fc94e400c8981985.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-125123dcbe5220b04452a52822f2adb481f87b54.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-4032ecc8f0328046c70742a3cbf2412d4c8d9bab.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/classes-5d87ea5542bd9f5784d1d4f491d220a5dcdf9bd7.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/exploded-aar/ItemFinder/facebookSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="68afab4982c15e84a42497a3c854fc04106aa7ba">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/classes-aa20d9155d223f616715504c6d8907079c756d9d.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-6a326da6e8d17992ba3d0cfe7c6591c57a8147f2.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/libs/httpmime-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Latest/StoreFinder/storeFinder/build/intermediates/pre-dexed/debug/httpmime-4.3.4-024a1fd5a2db30e9e5f6b041d81dcf2eadbab5bc.jar" />
+    </item>
+    <item
+        jar="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/libs/httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/Users/jonnelryanbuisan/Documents/Android/AndroidStudio/Personal/ItemFinder/itemFinder/build/intermediates/pre-dexed/debug/httpcore-4.3.2-66f4f46b0b7e5b80417df1e0ef584bc490e57a3b.jar" />
+    </item>
+
+</items>

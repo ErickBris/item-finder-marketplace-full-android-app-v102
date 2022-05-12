@@ -1,0 +1,28 @@
+————————————————————————————————————————————
+V1.0
+————————————————————————————————————————————
+Android App
+
+Localization Ready!
+INFINITE SUBCATEGORIES
+Image BLUR
+Offline Usage
+User Reviews
+Promotions
+User Profile
+Social Login (Twitter/Facebook/Web)
+AdMob
+Cool Mobile UI Interaction
+Waterfall Collection View display on items.
+Share to Facebook
+Share to Twitter
+Call Integration
+Email Integration
+SMS Integration
+User can add Item to Favorites.
+Advance Search
+About Us Panel Added
+Terms & Conditions Panel Added
+User can edit its Profile
+Image Pinch and Zoom
+Supports small and large screen displays.
